@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class NestedLoops {
     public static void main(String[] args) {
+        // nested loop mean a loop inside a loop
 
         Scanner sc = new Scanner(System.in);
 
